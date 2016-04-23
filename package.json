@@ -1,0 +1,29 @@
+{
+  "name": "testdev",
+  "version": "1.0.0",
+  "description": "this is test dev",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/septimaulina/testDev.git"
+  },
+  "keywords": [
+    "septi"
+  ],
+  "author": "septimaulina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/septimaulina/testDev/issues"
+  },
+  "homepage": "https://github.com/septimaulina/testDev#readme"
+}
